@@ -1,3 +1,3 @@
-# Aulas front-end SENAI Jandira
+# Data projects (Analytics and Science)
 
-aulas realizadas no curso Técnico em Desenvolvimento de sistemas no SENAI Jandira no ano de 2019, na disciplina de programação WEB front-end ministrada pelo professor Fernando Leonid
+I am Data Science student and I will use this toll for show my projects related to data manipulate 
